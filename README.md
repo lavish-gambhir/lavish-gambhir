@@ -3,7 +3,7 @@ Hey there :wave:
 I am a senior software engineer, primarly working on distributed systems using Go and Rust.
 
 # 💫 About Me:
-🔭 I’m currently working on a gRPC service<br>👯 I’m looking to collaborate on any fun side project<br>💬 Ask me about Distributed systems, Golang and Kotlin
+🔭 I’m currently working on a gRPC service<br>👯 I’m looking to collaborate on any fun side project<br>💬 Ask me about Distributed systems, Go and Kotlin
 
 
 ## 🌐 Socials:
