@@ -1,9 +1,9 @@
 Hey there :wave:
 ---
-I am a senior software engineer, primarly working on Rust, Tokio and GraphQL.
+I am a senior software engineer, primarly working on Distributed systems using Go, gRPC and Kafka.
 
 # 💫 About Me:
-👯 I’m looking to collaborate on any fun side project<br>💬 Ask me about Distributed systems, Rust and GraphQL.
+👯 I’m looking to collaborate on any fun side project<br>💬 Ask me about Distributed systems, Go and Kafka.
 
 
 ## 🌐 Socials:
