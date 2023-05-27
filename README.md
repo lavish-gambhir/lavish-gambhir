@@ -3,7 +3,7 @@ Hey there :wave:
 I am a senior software engineer, primarly working on Distributed systems using Kotlin, Go, gRPC and Kafka.
 
 # 💫 About Me:
-👯 I’m looking to collaborate on any fun side project<br>💬 Ask me about Distributed systems, Go and Kafka.
+👯 I’m looking to collaborate on any fun side project<br>💬 Ask me about Distributed systems with Kotlin and Go.
 
 
 ## 🌐 Socials:
