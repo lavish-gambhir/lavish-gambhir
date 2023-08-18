@@ -1,9 +1,9 @@
 Hey there :wave:
 ---
-I am a senior software engineer, primarly working on Distributed systems using Rust, Go, gRPC and Kafka.
+I am a senior software engineer, primarly working on Distributed systems using Go, Kotlin, gRPC and Kafka.
 
 # 💫 About Me:
-👯 I’m looking to collaborate on any fun side project<br>💬 Ask me about Distributed systems with Rust and Go.
+👯 I’m looking to collaborate on any fun side project<br>💬 Ask me about Distributed systems with Go.
 
 
 ## 🌐 Socials:
