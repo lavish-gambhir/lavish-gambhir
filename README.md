@@ -3,7 +3,7 @@ Hey there :wave:
 I am a senior software engineer, primarily working on Distributed systems. 
 
 # 💫 About Me:
-👯 I’m looking to collaborate on any fun side project<br>💬 Ask me about Distributed systems.
+👯 I’m looking to collaborate on any fun side project<br>💬 Ask me about Distributed systems
 
 
 ## 🌐 Socials:
