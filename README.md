@@ -1,6 +1,6 @@
 Hey there :wave:
 ---
-I am a full stack software engineer, primarily working with Go, Typescript and Javascript. 
+I am a full stack software engineer, primarily working with Go, Kotlin and Compose UI.
 
 # 💫 About Me:
 👯 I’m looking to collaborate on any fun side project
