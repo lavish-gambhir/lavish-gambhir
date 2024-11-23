@@ -1,6 +1,6 @@
 Hey there :wave:
 ---
-I am a full stack software engineer, primarily working with Go, Kotlin and Compose UI.
+I am a Software Engineer, working with distributed systems, using Rust and Go.
 
 # 💫 About Me:
 👯 I’m looking to collaborate on any fun side project
